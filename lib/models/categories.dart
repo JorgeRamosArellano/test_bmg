@@ -6,7 +6,7 @@ class Categories {
     'General',
     'Health',
     'Science',
-    'Aports',
+    'Sports',
     'Technology'
   ];
 
